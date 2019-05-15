@@ -1,0 +1,131 @@
+{
+  "service_days": [
+    {
+      "id": "weekday",
+      "name": "Monday to Friday",
+      "service_periods": [
+        {
+          "id": "am_peak",
+          "name": "Morning Peak",
+          "start_time": "0800",
+          "end_time": "0900"
+        },
+        {
+          "id": "midday",
+          "name": "Midday",
+          "start_time": "1200",
+          "end_time": "1300"
+        }, 
+        {
+          "id": "pm_peak",
+          "name": "Afternoon Peak",
+          "start_time": "1600",
+          "end_time": "1700"
+        },
+        {
+          "id": "early_evening",
+          "name": "Early Evening",
+          "start_time": "1900",
+          "end_time": "2000"
+        },
+        {
+          "id": "late_evening",
+          "name": "Late Evening",
+          "start_time": "2200",
+          "end_time": "2300"
+        },
+        {
+          "id": "overnight",
+          "name": "Overnight",
+          "start_time": "0300",
+          "end_time": "0400"
+        }
+      ]
+    },
+    {
+      "id": "saturday",
+      "name": "Saturday",
+      "service_periods": [
+        {
+          "id": "early_morning",
+          "name": "Early Morning",
+          "start_time": "0700",
+          "end_time": "0800"
+        },
+        {
+          "id": "morning",
+          "name": "Morning",
+          "start_time": "1100",
+          "end_time": "1200"
+        }, 
+        {
+          "id": "afternoon",
+          "name": "Afternoon",
+          "start_time": "1400",
+          "end_time": "1500"
+        },
+        {
+          "id": "early_evening",
+          "name": "Early Evening",
+          "start_time": "1900",
+          "end_time": "2000"
+        },
+        {
+          "id": "late_evening",
+          "name": "Late Evening",
+          "start_time": "2200",
+          "end_time": "2300"
+        },
+        {
+          "id": "overnight",
+          "name": "Overnight",
+          "start_time": "0300",
+          "end_time": "0400"
+        }
+      ]
+    },
+    {
+      "id": "sunday",
+      "name": "Sunday",
+      "service_periods": [
+        {
+          "id": "early_morning",
+          "name": "Early Morning",
+          "start_time": "0700",
+          "end_time": "0800"
+        },
+        {
+          "id": "morning",
+          "name": "Morning",
+          "start_time": "1100",
+          "end_time": "1200"
+        }, 
+        {
+          "id": "afternoon",
+          "name": "Afternoon",
+          "start_time": "1400",
+          "end_time": "1500"
+        },
+        {
+          "id": "early_evening",
+          "name": "Early Evening",
+          "start_time": "1900",
+          "end_time": "2000"
+        },
+        {
+          "id": "late_evening",
+          "name": "Late Evening",
+          "start_time": "2200",
+          "end_time": "2300"
+        },
+        {
+          "id": "overnight",
+          "name": "Overnight",
+          "start_time": "0300",
+          "end_time": "0400"
+        }
+      ]
+    }
+  ]
+}
+  
